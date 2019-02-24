@@ -1,0 +1,42 @@
+body {
+	background-image: url("../images/leopard_print.jpeg");
+}
+form, input {
+	margin-right: 10px;
+}
+
+.btn {
+	margin-right: 10px;
+}
+img {
+	margin: 40px;
+
+}
+#animal-input {
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+#gifPanel {
+	border: solid rgb(38, 0, 255) 2px;
+}
+#jumbo {
+	background-color: brown;
+	border: none;
+}
+#text {
+	color: rgb(8, 235, 76);
+}
+#panelBody {
+	background-color: brown;
+	border: 0;
+	box-shadow: none;
+	border-bottom: solid #36ff51 5px;
+}
+#rating {
+	margin: 10px;
+	color: #36ff51;
+}
+#newButton {
+    color: azure
+}
